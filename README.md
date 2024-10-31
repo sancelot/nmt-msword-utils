@@ -30,8 +30,8 @@ extract_texts : extract texts to a text file from a word document
 
 translate : will translate document 
 
-input_filename [inpt.docx]
-output_filename [output_docx]
+input_filename [inpt.docx]  
+output_filename [output_docx]  
 
 
 ## translation
