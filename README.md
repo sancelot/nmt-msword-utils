@@ -9,6 +9,7 @@ in order to translate the document.
 
 
 # Requirements :
+This software needs Microsoft Open XML SDK
 
 Dotnet 7.0  
 #with ubuntu , setup: 
