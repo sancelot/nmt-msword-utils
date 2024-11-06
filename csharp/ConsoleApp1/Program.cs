@@ -23,7 +23,7 @@ namespace OpenXmlSdkTranslate
             StreamReader? bluescore_file = null;
             var dictionary = new Dictionary<string, string>(); // dictionaire trad src => tgt language
             string input_filename = "input.docx";
-            string output_filename = "output.docx"
+            string output_filename = "output.docx";
             var arguments = new Dictionary<string, string>();
             for (int i = 0; i < args.Length; i += 2)
             {
