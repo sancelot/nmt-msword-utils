@@ -23,7 +23,7 @@ This will create a binary in the bin/Debug/net7.0 folder
 
 # usage:
 ##extract word texts :
-ConsoleApp1 -extract_text true -input_filename worddocument.doc  
+nmt-word-util -extract_text true -input_filename worddocument.doc  
 
 cli possible args :
 extract_texts : extract texts to a text file from a word document
